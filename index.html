@@ -85,7 +85,7 @@ ul { padding: 0px; }
 <body>
 	<div id="fullpage">
 
-		<div class="section pink" id="header">
+		<div class="section pink" data-anchor="header">
 
 			<div id="menu">
 			    <ul id="horizontal-list">
@@ -98,16 +98,16 @@ ul { padding: 0px; }
 
 
 			<div class="logo">
-				<img src="bodacious2.svg" height="40%" alt="Bodacious Logo">
+				<img src="bodacious2.svg" style="height: 40%" alt="Bodacious Logo">
 			</div>
 		</div>
 
-		<div class="section" id="subtitle">
+		<div class="section" data-anchor="subheader">
 			<div class="break title">A full service <br/> strategy studio</div>
 			<div class="subtitle">Fuelled by bold and audacious thinking.</div>
 		</div>
 
-		<div class="section wwd" data-anchor="what_we_do" id="whatwedo_section_1">
+		<div class="section wwd" data-anchor="what_we_do">
 
 			<div class="center">
 				<h3>what we do</h3>
@@ -117,7 +117,7 @@ ul { padding: 0px; }
 			</div>
 		</div>
 
-		<div class="section wwd" id="whatwedo_section_2">
+		<div class="section wwd" data-anchor="what_we_do_2">
 			<div class="center">
 				<h3>what we do</h3>
 				<h1>Develop and define <br />compelling brands</h1>
@@ -126,16 +126,16 @@ ul { padding: 0px; }
 			</div>
 		</div>
 
-		<div class="section wwd" id="whatwedo_section_3">
+		<div class="section wwd" data-anchor="what_we_do_3">
 			<div class="center">
 				<h3>what we do</h3>
-				<h1>Establish and evolve </br />new ways of working</h1>
+				<h1>Establish and evolve <br />new ways of working</h1>
 
 				<h2>We construct pioneering and productive new working practices to bring the right minds, motivations and means together, at speed.</h2>
 			</div>
 		</div>
 
-		<div class="section" data-anchor="happy_clients" id="happyclients_section_1">
+		<div class="section" data-anchor="happy_clients">
 			<div class="center">
 				<h4>A few words from some happy clients</h4>
 
@@ -153,7 +153,7 @@ ul { padding: 0px; }
 			</div>
 		</div>
 
-		<div class="section" id="happyclients_section_2">
+		<div class="section" data-anchor="happy_clients_2">
 			<div class="center">
 			<div class="testimonial">
 			Intelligent, strategic, innovative, dedicated and customer focused - these are just some of the adjectives that come to mind when I think of Zoe. Zoe led a challenging marcoms strategy project for us, delivering all fronts. She finds the sweet spot between engaging and challenging stakeholders, bringing her vast experience, broad skills and deep expertise to the table. Zoe is also an absolute pleasure to work with, always pragmatic and super focused on getting things done.
@@ -169,7 +169,7 @@ ul { padding: 0px; }
 			</div>
 		</div>
 
-		<div class="section" id="happyclients_section_3">
+		<div class="section" data-anchor="happy_clients_3">
 			<div class="center">
 			<div class="testimonial">
 				Coca-Cola South Pacific has very exacting standards when it comes to the development of our brand communications and we always try to work with the best agency partners. What this ultimately means is the best people and Zoe certainly fits this description; a new breed of strategist, one born in the digital age, with a huge appetite for knowledge and strong beliefs. What this translates into is strong recommendations on our brands. Zoe is also known within our business and across the wider communications industry for her understanding of trends and the implications and applications of them on a day-to-day basis
@@ -185,7 +185,7 @@ ul { padding: 0px; }
 			</div>
 		</div>
 
-		<div class="section pink" data-anchor="contact" id="contact_section">
+		<div class="section pink" data-anchor="contact">
 			<h3>Get in touch:</h3>
 			<h1><a href="mailto:hello@bodacious.be">hello@bodacious.be</a></h1>
 
@@ -198,7 +198,7 @@ ul { padding: 0px; }
 
 	<script>
 	    new fullpage('#fullpage', {
-	    	anchors: ['home', 'subtitle', 'what_we_do', 'what_we_do_2', 'what_we_do_3', 'happy_clients', 'happy_clients_2', 'happy_clients_3', 'contact'],
+	    	anchors: ['header', 'subheader', 'what_we_do', 'what_we_do_2', 'what_we_do_3', 'happy_clients', 'happy_clients_2', 'happy_clients_3', 'contact'],
 	    	autoScrolling:true,
 	    	licenseKey: '9AC88155-A545489C-82726712-34768526',
 	    });
