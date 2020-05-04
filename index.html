@@ -2,11 +2,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
 <title>bodacious.be - A full service strategy studio</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Playfair+Display+SC:wght@900&display=swap" rel="stylesheet" />
+<link href="https://cdn.materialdesignicons.com/5.1.45/css/materialdesignicons.min.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="fullpage.css" />
 <style>
+
+
 body { 
     background-color: rgba(245, 245, 245);
     color: rgba(110,123,135);
+    font-size: 12pt;
     font-family: 'Montserrat', sans-serif;
     padding: 0;
     margin: 0;
@@ -62,7 +69,7 @@ h4 { font-size: 20pt;   }
 ul { text-align: center; }
 li { display: inline-block; float: none ; margin-left: 30px; margin-right: 30px;}
 #menu a { 
-	font-size: 11pt;
+	font-size: 10pt;
 }
 .logo { text-align: center; padding: 40px;}
 
@@ -73,11 +80,30 @@ ul { padding: 0px; }
 .wwd h2 {
 	width: 60%;
 }
+
+#logo {
+	width: 40%;
+}
+
+
+@media only screen and (max-width: 768px) {
+body {  font-size: 10pt; }
+.title { font-size: 30pt; margin-bottom: 40px;}
+#logo { width: 80%; }
+.logo { padding: 0;}
+.content { padding: 0; }
+.center { 	width: 80%; padding: 10px;}
+.testimonial { 
+	clear: both; 
+	margin-bottom: 5px; 
+	width: 90%;
+}
+h4 { margin-block-start: 0em; }
+h1 { font-size: 6vw; }
+}
 </style>
 
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Playfair+Display+SC:wght@900&display=swap" rel="stylesheet" />
-<link href="https://cdn.materialdesignicons.com/5.1.45/css/materialdesignicons.min.css" rel="stylesheet" />
-<link rel="stylesheet" type="text/css" href="fullpage.css" />
+
 <script src="fullpage.js"></script>
 
 </head>
@@ -98,7 +124,7 @@ ul { padding: 0px; }
 
 
 			<div class="logo">
-				<img src="bodacious2.svg" style="height: 40%" alt="Bodacious Logo">
+				<img src="bodacious2.svg" id="logo" alt="Bodacious Logo">
 			</div>
 		</div>
 
