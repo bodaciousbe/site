@@ -85,7 +85,7 @@ ul { padding: 0px; }
 	width: 40%;
 }
 
-
+#menu_mobile { display: none; }
 @media only screen and (max-width: 892px) {
 body {  font-size: 9.5pt; }
 .title { font-size: 30pt; margin-bottom: 40px;}
@@ -105,7 +105,11 @@ div[id^="happy_clients_section"] .fp-tableCell{
 	vertical-align: top;
 }
 
-}
+.wwd h2 { width: 100%; }
+li { display: block; }
+
+#menu_mobile { display: inline; }
+#menu { display: none; }
 </style>
 
 
@@ -118,7 +122,8 @@ div[id^="happy_clients_section"] .fp-tableCell{
 
 		<div class="section pink" data-anchor="header">
 
-			<div id="menu">
+
+			  <div id="menu">
 			    <ul id="horizontal-list">
 			      <li><a href="#what_we_do">What we do</a></li>
 			      <li><a href="#happy_clients">Happy clients</a></li>
@@ -127,9 +132,17 @@ div[id^="happy_clients_section"] .fp-tableCell{
 			    </ul>
 			</div>
 
-
 			<div class="logo">
 				<img src="bodacious2.svg" id="logo" alt="Bodacious Logo">
+			</div>
+
+			  <div id="menu_mobile">
+			    <ul id="horizontal-list">
+			      <li><a href="#what_we_do">What we do</a></li>
+			      <li><a href="#happy_clients">Happy clients</a></li>
+			      <li><a href="https://zoescaman.substack.com/" target="_blank">Writing</a></li>
+			      <li><a href="#contact">Contact</a></li>
+			    </ul>
 			</div>
 		</div>
 
