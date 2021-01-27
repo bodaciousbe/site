@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 300 300" width="300" height="300">
+  <defs>
+    <font-face font-family="Montserrat" font-size="24" panose-1="0 0 3 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="517" cap-height="700" ascent="968.0023" descent="-251.00708" font-weight="300">
+      <font-face-src>
+        <font-face-name name="Montserrat-Thin"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9 
+    <dc:date>2021-01-27 21:13:21 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" fill="none" stroke-dasharray="none" stroke="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <title>Canvas_1</title>
+        <g id="Group_10">
+          <title>Graphic_2</title>
+          <g id="Graphic_11">
+            <path d="M 224.07202 153.33527 C 207.86447 126.56942 174.66415 119.4978 174.66415 119.4978 C 181.50974 116.23274 187.939 111.81497 192.38415 105.90707 C 196.29836 100.70694 197.38924 95.50804 197.36947 89.17475 C 197.35235 83.23263 195.69103 78.79285 192.09168 73.90934 C 187.5042 67.686055 180.9353 62.92356 173.39015 60.154795 C 169.70385 58.802815 165.83969 58.06203 161.88728 57.844446 C 156.82949 57.565726 151.70585 57.75888 146.64015 57.75765 C 141.52837 57.755214 136.35465 57.755214 131.28369 57.755214 L 99.03852 57.755214 L 83.43042 57.755214 L 83.43042 60.05579 L 90.66203 60.05579 C 99.7526 60.43839 100.78548 69.06492 100.78548 69.06492 L 100.78548 128.30159 C 118.47915 120.0699 132.39825 120.63343 132.39825 120.63343 L 132.39825 59.81619 C 139.50736 59.82107 142.96704 59.81619 142.96704 59.81619 C 144.80229 59.81375 146.39115 59.762394 148.22112 59.77463 C 151.18018 59.79418 154.101 61.77082 156.27088 63.49075 C 158.13511 64.96865 159.67656 66.76925 160.90839 68.73243 C 165.62232 76.25512 166.18883 85.70923 165.60913 94.20007 C 165.32983 98.30124 164.49455 102.422 162.69752 106.19678 C 158.74642 114.49694 148.30545 119.18609 139.12793 120.65788 C 170.3415 121.12605 184.5768 132.97607 195.99536 149.50669 C 205.85137 163.77219 207.47846 183.20725 201.00043 199.21102 C 198.3536 205.75457 194.87943 212.03041 190.42768 217.67916 C 186.90346 222.15195 182.76922 226.21523 178.09088 229.6624 C 174.4046 232.37738 170.38893 234.7073 166.13218 236.57026 C 160.35374 239.0994 154.22353 240.93302 147.76264 240.76066 C 144.2832 240.6653 140.72734 240.07977 137.3612 239.2571 C 115.14727 233.8345 103.5535 208.58444 102.87368 188.83156 C 102.12404 167.0898 115.09457 136.21912 141.90516 133.90388 C 149.37391 133.25845 164.75146 136.16045 161.44855 146.17196 C 160.73844 148.32585 159.29976 150.19613 158.006 152.10063 C 151.39887 161.82733 147.20403 177.74309 161.22195 183.85269 C 172.07135 188.58217 185.49113 185.54571 189.2894 173.96952 C 194.33796 158.57573 173.9 142.95825 173.9 142.95825 C 160.19433 131.80378 139.75503 132.02626 139.75503 132.02626 C 133.16899 132.09838 126.39717 132.41865 119.92311 133.61661 C 112.67043 134.95759 105.75895 137.6591 99.43376 141.18576 C 86.29461 148.50921 73.08299 159.3923 69.74448 173.8864 C 69.579816 174.60272 69.47706 175.33006 69.32686 176.04883 C 66.63264 188.96357 70.96579 200.15349 70.96579 200.15349 C 71.23721 200.8527 71.563935 201.53604 71.89594 202.21202 C 72.80367 204.0652 73.83789 205.8658 74.9538 207.6163 C 76.62303 210.23592 78.48856 212.74796 80.52013 215.13655 C 83.07997 218.14856 85.90991 220.96378 88.9717 223.54304 C 92.57763 226.58072 96.50633 229.2859 100.68668 231.60727 C 105.52444 234.29412 110.69027 236.46146 116.04448 238.10072 C 136.17152 244.26285 158.32087 243.21158 178.49666 237.81098 C 193.38411 233.82595 207.25974 228.78108 217.55054 217.42733 C 233.35626 199.98724 236.14403 173.27275 224.07202 153.33527 Z" fill="white"/>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(5 257.5)" fill="white">
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" x="47.088" y="23">B</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">O</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">D</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">A</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">C</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">I</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">O</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">U</tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23"> </tspan>
+          <tspan font-family="Montserrat" font-size="24" font-weight="300" fill="white" y="23">S</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
